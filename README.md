@@ -16,7 +16,7 @@ mkdir build
 cd build
 cmake ..
 make
-./main
+./main (must be run with build dir as CWD)
 ```
 
 # Notes
