@@ -18,3 +18,13 @@ cmake ..
 make
 ./main
 ```
+
+# Notes
+Left click on window to focus and use mouse to move first person camera view
+
+Controls:
+- WASD: Move
+- Right Click: Zoom in camera
+- LCtrl: Crouch
+- Space: Jump
+
